@@ -1,0 +1,8 @@
+node_modules
+public
+.tmp
+.idea
+.vscode
+*.tar.gz
+yarn.lock
+yarn-error.log
